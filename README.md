@@ -109,4 +109,5 @@ performs the following actions:
 ## Authors
 
 Amy Margolina
+
 Daniel Wang
