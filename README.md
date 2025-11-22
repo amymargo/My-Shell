@@ -36,7 +36,7 @@ MyShell includes a set of built-in commands implemented directly inside the shel
 ```
 /
 ├── src/            # Shell implementation (.c files)
-├── headers/        # Header files
+├── include/        # Header files
 ├── tests/          # Test input files used in batch mode
 ├── Makefile        # Build script for MyShell
 └── README.md       # Project documentation
